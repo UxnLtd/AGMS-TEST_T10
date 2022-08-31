@@ -1,0 +1,23 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Äµğñüÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(İøÜ 
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(é¤ó·ûÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ˆÄÏ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(†ÈÌäùÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¿íá…şÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ˆÄÏ
+O
+java:S1874"9Remove this use of "PreferenceManager"; it is deprecated.(İøÜ 
+Y
+java:S1874"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(İøÜ 
+T
+java:S1874"9Remove this use of "PreferenceManager"; it is deprecated.(é¤ó·ûÿÿÿÿ
+^
+java:S1874"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(é¤ó·ûÿÿÿÿ

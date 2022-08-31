@@ -1,0 +1,64 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Ø›¦ÿÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ŸÔÓ–øÿÿÿÿ
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(‘Èïá
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(ë¯”æ
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Ÿ§½ùÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(íİµ˜
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(ğ¦Æ
+_
+java:S1120 "DMake this line start after 6 spaces to indent the code consistently.(…î£ºûÿÿÿÿ
+Z
+java:S1120%"DMake this line start after 2 spaces to indent the code consistently.(ÒÎŒ
+_
+java:S1120&"DMake this line start after 4 spaces to indent the code consistently.(Œ¬¸“üÿÿÿÿ
+_
+java:S1120)"DMake this line start after 6 spaces to indent the code consistently.(Û¢Ş¥üÿÿÿÿ
+Z
+java:S1120-"DMake this line start after 6 spaces to indent the code consistently.(°ÊÙÛ
+E
+java:S3740"/Provide the parametrized type for this generic.(‘Èïá
+J
+java:S3740"/Provide the parametrized type for this generic.(Ÿ§½ùÿÿÿÿ
+E
+java:S3740%"/Provide the parametrized type for this generic.(ÒÎŒ
+/
+java:S1700&"Rename field "error"(Œ¬¸“üÿÿÿÿ
+U
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÌÜ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ø›¦ÿÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Á»›ê
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ŸÔÓ–øÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¾°Æ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ÿ§½ùÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(«À¤¨
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¤Üƒê
+W
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(ÒÎŒ
+W
+java:S1106("AMove this left curly brace to the beginning of next line of code.(ÔãË‘
+\
+java:S1106,"AMove this left curly brace to the beginning of next line of code.(’ôíóşÿÿÿÿ
+/
+java:S2326"T is not used in the class.(ÌÜ
+P	java:S126";"if ... else if" constructs should end with "else" clauses.(¾°Æ
+G
+java:S1108"1Move this "else" keyword to a new dedicated line.(¾°Æ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ÿ§½ùÿÿÿÿ
+[
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(ÒÎŒ

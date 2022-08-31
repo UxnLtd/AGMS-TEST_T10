@@ -1,0 +1,120 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ÜŸº‚
+_
+java:S1120""DMake this line start after 4 spaces to indent the code consistently.(ÕÖŸÿÿÿÿÿ
+_
+java:S1120'"DMake this line start after 4 spaces to indent the code consistently.(ÕÉÈ¹üÿÿÿÿ
+[
+java:S1120+"EMake this line start after 10 spaces to indent the code consistently.(¡é††
+[
+java:S1120,"EMake this line start after 12 spaces to indent the code consistently.(ô«
+[
+java:S11202"EMake this line start after 10 spaces to indent the code consistently.(¡é††
+[
+java:S11203"EMake this line start after 12 spaces to indent the code consistently.(ŒÖ°è
+`
+java:S11209"EMake this line start after 10 spaces to indent the code consistently.(Ğ¸™áúÿÿÿÿ
+[
+java:S1120:"EMake this line start after 12 spaces to indent the code consistently.(¿Ãö
+[
+java:S1120="EMake this line start after 18 spaces to indent the code consistently.(“–ış
+[
+java:S1120>"EMake this line start after 20 spaces to indent the code consistently.(¸™ÿ³
+`
+java:S1120G"EMake this line start after 10 spaces to indent the code consistently.(Ğ¸™áúÿÿÿÿ
+[
+java:S1120H"EMake this line start after 12 spaces to indent the code consistently.(¿Ãö
+[
+java:S1120K"EMake this line start after 18 spaces to indent the code consistently.(“–ış
+[
+java:S1120L"EMake this line start after 20 spaces to indent the code consistently.(¸™ÿ³
+_
+java:S1120U"DMake this line start after 4 spaces to indent the code consistently.(ìí’Êûÿÿÿÿ
+Z
+java:S1120X"DMake this line start after 4 spaces to indent the code consistently.(ô«
+_
+java:S1120["DMake this line start after 6 spaces to indent the code consistently.(Şêé£şÿÿÿÿ
+_
+java:S1120^"DMake this line start after 6 spaces to indent the code consistently.(õüØËúÿÿÿÿ
+_
+java:S1120f"DMake this line start after 4 spaces to indent the code consistently.(’ÂÆüÿÿÿÿ
+_
+java:S1120i"DMake this line start after 6 spaces to indent the code consistently.(ÄïœÀüÿÿÿÿ
+_
+java:S1120o"DMake this line start after 4 spaces to indent the code consistently.(èı£ìüÿÿÿÿ
+n	java:S109@"TAssign this magic number 200 to a well-named constant, and use the constant instead.(µ’åáøÿÿÿÿ
+n	java:S109N"TAssign this magic number 200 to a well-named constant, and use the constant instead.(µ’åáøÿÿÿÿ
+r
+java:S1192f"WDefine a constant instead of duplicating this literal "checkBox1.isChecked():" 3 times.(’ÂÆüÿÿÿÿ
+a
+java:S1192Y"FDefine a constant instead of duplicating this literal "check" 7 times.(«É¬…ùÿÿÿÿ
+C
+java:S1604)"(Make this anonymous inner class a lambda(ÈáÃäşÿÿÿÿ
+=
+java:S16040"(Make this anonymous inner class a lambda(¡¶­L
+>
+java:S1604;"(Make this anonymous inner class a lambda(Õ¾ŒÎ
+C
+java:S16047"(Make this anonymous inner class a lambda(²ëÇ‹ùÿÿÿÿ
+>
+java:S1604I"(Make this anonymous inner class a lambda(Õ¾ŒÎ
+=
+java:S1604E"(Make this anonymous inner class a lambda(â§È
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÿÎ¬¯
+W
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(ï ±ª
+W
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(¡Œşø
+\
+java:S1106)"AMove this left curly brace to the beginning of next line of code.(ÈáÃäşÿÿÿÿ
+W
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(¡é††
+V
+java:S11060"AMove this left curly brace to the beginning of next line of code.(¡¶­L
+W
+java:S11062"AMove this left curly brace to the beginning of next line of code.(¡é††
+\
+java:S11067"AMove this left curly brace to the beginning of next line of code.(²ëÇ‹ùÿÿÿÿ
+\
+java:S11069"AMove this left curly brace to the beginning of next line of code.(Ğ¸™áúÿÿÿÿ
+W
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(Õ¾ŒÎ
+W
+java:S1106="AMove this left curly brace to the beginning of next line of code.(“–ış
+V
+java:S1106E"AMove this left curly brace to the beginning of next line of code.(â§È
+\
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(Ğ¸™áúÿÿÿÿ
+W
+java:S1106I"AMove this left curly brace to the beginning of next line of code.(Õ¾ŒÎ
+W
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(“–ış
+\
+java:S1106T"AMove this left curly brace to the beginning of next line of code.(¤è¦úÿÿÿÿ
+\
+java:S1106W"AMove this left curly brace to the beginning of next line of code.(Ê…—ÿÿÿÿÿ
+W
+java:S1106Z"AMove this left curly brace to the beginning of next line of code.(øĞ’¹
+W
+java:S1106]"AMove this left curly brace to the beginning of next line of code.(å¥‡
+W
+java:S1106e"AMove this left curly brace to the beginning of next line of code.(Ç°Ÿø
+\
+java:S1106h"AMove this left curly brace to the beginning of next line of code.(²×ˆ½úÿÿÿÿ
+\
+java:S1106n"AMove this left curly brace to the beginning of next line of code.(ÕÙïùÿÿÿÿ
+`	java:S103!"KSplit this 132 characters long line (which is greater than 120 authorized).(ï ±ª
+t	java:S116"ZRename this field "button_disagree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áûı¯üÿÿÿÿ
+l	java:S116"WRename this field "button_agree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êğĞ«
+H
+java:S2039"2Explicitly declare the visibility for "checkBox1".(ÜŸº‚
+O
+java:S2039"9Explicitly declare the visibility for "allTermsCheckbox".(Óá¥
+S
+java:S2039"8Explicitly declare the visibility for "button_disagree".(áûı¯üÿÿÿÿ
+K
+java:S2039"5Explicitly declare the visibility for "button_agree".(êğĞ«
+G
+java:S1108]"1Move this "else" keyword to a new dedicated line.(å¥‡

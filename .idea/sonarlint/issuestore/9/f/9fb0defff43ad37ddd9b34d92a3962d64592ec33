@@ -1,0 +1,35 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(á¸óÖùÿÿÿÿ
+Y
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ÌëŽB
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(»€Ó¡
+Z
+java:S1120""DMake this line start after 4 spaces to indent the code consistently.(³«ßö
+_
+java:S1120#"DMake this line start after 6 spaces to indent the code consistently.(µûëŠüÿÿÿÿ
+S
+java:S1176"=Document this public class by adding an explicit description.(ßíËÚ
+Y
+java:S1176">Document this public method by adding an explicit description.(×„ñàúÿÿÿÿ
+Y
+java:S1176 ">Document this public method by adding an explicit description.( Ë®íþÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ßíËÚ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(×„ñàúÿÿÿÿ
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÌëŽB
+\
+java:S1106 "AMove this left curly brace to the beginning of next line of code.( Ë®íþÿÿÿÿ
+W
+java:S1106""AMove this left curly brace to the beginning of next line of code.(³«ßö
+^
+java:S3052"HRemove this initialization to "null", the compiler will do that for you.(Š¢Ú½
+c
+java:S3052"HRemove this initialization to "null", the compiler will do that for you.(ˆë¡Ðüÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ßíËÚ
+T
+java:S1172"9Remove this unused method parameter "applicationContext".(×„ñàúÿÿÿÿ

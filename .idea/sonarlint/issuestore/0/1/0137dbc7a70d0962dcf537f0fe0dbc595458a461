@@ -1,0 +1,142 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ÖûÉó
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.( °¯Ç
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ĞÉŒ
+Z
+java:S1120""DMake this line start after 4 spaces to indent the code consistently.(Ñ¾Í­
+_
+java:S1120&"DMake this line start after 4 spaces to indent the code consistently.(ùÍŞ¾úÿÿÿÿ
+Z
+java:S11207"DMake this line start after 6 spaces to indent the code consistently.(ÊâÛ
+Z
+java:S1120:"DMake this line start after 6 spaces to indent the code consistently.(ÊâÛ
+Z
+java:S1120<"DMake this line start after 6 spaces to indent the code consistently.(ÁßìÚ
+Z
+java:S1120>"DMake this line start after 8 spaces to indent the code consistently.(§´ñÙ
+Z
+java:S1120B"DMake this line start after 6 spaces to indent the code consistently.(À¿Œ¼
+Z
+java:S1120E"DMake this line start after 6 spaces to indent the code consistently.(£„Ş£
+_
+java:S1120J"DMake this line start after 8 spaces to indent the code consistently.(¸‰¬‘ûÿÿÿÿ
+_
+java:S1120R"DMake this line start after 6 spaces to indent the code consistently.(œú±Ëÿÿÿÿÿ
+_
+java:S1120V"DMake this line start after 6 spaces to indent the code consistently.(ÆÒ¨ıøÿÿÿÿ
+_
+java:S1120["DMake this line start after 8 spaces to indent the code consistently.(Ï¶Šûıÿÿÿÿ
+_
+java:S1120^"DMake this line start after 8 spaces to indent the code consistently.(áğ¯ÿÿÿÿÿ
+Z
+java:S1120c"DMake this line start after 6 spaces to indent the code consistently.(ùÿş·
+Z
+java:S1120f"DMake this line start after 6 spaces to indent the code consistently.(Èßï¦
+Z
+java:S1120i"DMake this line start after 6 spaces to indent the code consistently.(ª×˜×
+_
+java:S1120m"DMake this line start after 6 spaces to indent the code consistently.(˜ôà÷ûÿÿÿÿ
+_
+java:S1120p"DMake this line start after 6 spaces to indent the code consistently.(çİüûÿÿÿÿ
+Z
+java:S1120s"DMake this line start after 6 spaces to indent the code consistently.(îÙİ
+_
+java:S1120y"DMake this line start after 8 spaces to indent the code consistently.(€‚§Âıÿÿÿÿ
+Z
+java:S1120}"DMake this line start after 8 spaces to indent the code consistently.(›ûä·
+_
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(€Ğ´ıøÿÿÿÿ
+`
+java:S1120‚"DMake this line start after 8 spaces to indent the code consistently.(Şñ‹ıÿÿÿÿ
+[
+java:S1120…"DMake this line start after 8 spaces to indent the code consistently.(¹¥í
+[
+java:S1120ˆ"DMake this line start after 8 spaces to indent the code consistently.(¹¥í
+[
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(›ûä·
+[
+java:S1120‘"DMake this line start after 8 spaces to indent the code consistently.(›ûä·
+[
+java:S1120“"DMake this line start after 8 spaces to indent the code consistently.(›ûä·
+U
+java:S1213"?Move this static variable to comply with Java Code Conventions.(îÑªÑ
+m	java:S109G"SAssign this magic number 10 to a well-named constant, and use the constant instead.(’Ï³Çùÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(æÒİƒşÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÖûÉó
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.( °¯Ç
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Š‚“œıÿÿÿÿ
+W
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(ÓáÆÆ
+W
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(¤ìò
+\
+java:S11066"AMove this left curly brace to the beginning of next line of code.(îıÚ°ûÿÿÿÿ
+W
+java:S11069"AMove this left curly brace to the beginning of next line of code.(¨–‚ä
+W
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(å¥‡
+W
+java:S1106="AMove this left curly brace to the beginning of next line of code.(˜„ø
+\
+java:S1106A"AMove this left curly brace to the beginning of next line of code.(ª’şËûÿÿÿÿ
+\
+java:S1106D"AMove this left curly brace to the beginning of next line of code.(®¢İ¼şÿÿÿÿ
+\
+java:S1106I"AMove this left curly brace to the beginning of next line of code.(¨”âÿÿÿÿÿ
+\
+java:S1106Q"AMove this left curly brace to the beginning of next line of code.(Õ…ö´ıÿÿÿÿ
+W
+java:S1106U"AMove this left curly brace to the beginning of next line of code.(ı’ ö
+\
+java:S1106Z"AMove this left curly brace to the beginning of next line of code.(úÖ×ìûÿÿÿÿ
+\
+java:S1106]"AMove this left curly brace to the beginning of next line of code.(¾ëÁõşÿÿÿÿ
+\
+java:S1106b"AMove this left curly brace to the beginning of next line of code.(äÖÜ¹ùÿÿÿÿ
+\
+java:S1106e"AMove this left curly brace to the beginning of next line of code.(Š§ó€øÿÿÿÿ
+\
+java:S1106h"AMove this left curly brace to the beginning of next line of code.(ï¨‚”üÿÿÿÿ
+\
+java:S1106l"AMove this left curly brace to the beginning of next line of code.(Üò›äúÿÿÿÿ
+W
+java:S1106o"AMove this left curly brace to the beginning of next line of code.(ã¸¬à
+\
+java:S1106r"AMove this left curly brace to the beginning of next line of code.(Â®İşÿÿÿÿ
+\
+java:S1106w"AMove this left curly brace to the beginning of next line of code.(•Ğ¢±ıÿÿÿÿ
+`	java:S103"KSplit this 123 characters long line (which is greater than 120 authorized).(º½‰‡
+j
+java:S3008"TRename this field "USER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÑªÑ
+^
+java:S3052"HRemove this initialization to "null", the compiler will do that for you.(îÑªÑ
+O
+java:S2974"4Make this class "final" or add a public constructor.(æÒİƒşÿÿÿÿ
+h
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¤ìò
+`
+java:S18541"JRemove this useless assignment to local variable "deviceFirstPairingDate".(‹ƒÕÒ
+]
+java:S1854J"BRemove this useless assignment to local variable "isChangeSensor".(¸‰¬‘ûÿÿÿÿ
+z
+java:S1541%"dThe Cyclomatic Complexity of this method "checkNextState" is 27 which is greater than 10 authorized.(¤ìò
+}	java:S138%"hThis method has 102 lines, which is greater than the 75 lines authorized. Split it into smaller methods.(¤ìò
+C
+java:S1481*"-Remove this unused "isGoHome" local variable.(É¦íç
+I
+java:S1481+"3Remove this unused "isChangeSensor" local variable.(ÊÌ¯é
+Q
+java:S14811";Remove this unused "deviceFirstPairingDate" local variable.(‹ƒÕÒ
+G
+java:S1108;"1Move this "else" keyword to a new dedicated line.(å¥‡
+?
+java:S2143E")Use the Java 8 Date and Time API instead.(£„Ş£
+R	java:S125"<This block of commented-out lines of code should be removed.(ÛÒ‡
+R	java:S125"<This block of commented-out lines of code should be removed.(¥×ã•

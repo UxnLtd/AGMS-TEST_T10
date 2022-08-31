@@ -1,0 +1,48 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(¨ş©÷
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(î±¨Ôøÿÿÿÿ
+_
+java:S1120#"DMake this line start after 4 spaces to indent the code consistently.(˜óıøÿÿÿÿ
+Y
+java:S1120$"DMake this line start after 6 spaces to indent the code consistently.(íÕ¢*
+_
+java:S1120+"DMake this line start after 2 spaces to indent the code consistently.(æğ¦üÿÿÿÿ
+_
+java:S1120,"DMake this line start after 4 spaces to indent the code consistently.(ÍÑ³øúÿÿÿÿ
+Z
+java:S1120-"DMake this line start after 6 spaces to indent the code consistently.(Ùó­Í
+_
+java:S11203"DMake this line start after 6 spaces to indent the code consistently.(ÉõêÙıÿÿÿÿ
+Z
+java:S11208"DMake this line start after 6 spaces to indent the code consistently.(›…Ú
+_
+java:S1120="DMake this line start after 4 spaces to indent the code consistently.(îúøáùÿÿÿÿ
+N
+java:S1213"8Move this variable to comply with Java Code Conventions.(÷ñÈ©
+o	java:S109#"UAssign this magic number 1000 to a well-named constant, and use the constant instead.(˜óıøÿÿÿÿ
+g	java:S1098"RAssign this magic number 3 to a well-named constant, and use the constant instead.(›…Ú
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Î°ÁG
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Û½Ê€şÿÿÿÿ
+\
+java:S1106""AMove this left curly brace to the beginning of next line of code.(œƒƒ©ùÿÿÿÿ
+\
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(˜óıøÿÿÿÿ
+\
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(æğ¦üÿÿÿÿ
+\
+java:S1106,"AMove this left curly brace to the beginning of next line of code.(ÍÑ³øúÿÿÿÿ
+W
+java:S11062"AMove this left curly brace to the beginning of next line of code.(Æ†Õ
+\
+java:S11067"AMove this left curly brace to the beginning of next line of code.(Õ»­ëüÿÿÿÿ
+\
+java:S1106<"AMove this left curly brace to the beginning of next line of code.(»Æòªøÿÿÿÿ
+O
+java:S1258":Add a constructor to the class, or provide default values.(Î°ÁG
+h	java:S116"SRename this field "Timeback" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ñÈ©
+I
+java:S2039"3Explicitly declare the visibility for "mViewPager".(¨ş©÷

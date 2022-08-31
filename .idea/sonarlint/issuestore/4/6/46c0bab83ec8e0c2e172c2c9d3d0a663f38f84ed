@@ -1,0 +1,73 @@
+
+_
+java:S1120
+"DMake this line start after 2 spaces to indent the code consistently.(ËÓúºşÿÿÿÿ
+_
+java:S1120!"DMake this line start after 4 spaces to indent the code consistently.(¿«Ôšÿÿÿÿÿ
+_
+java:S1120+"DMake this line start after 4 spaces to indent the code consistently.(òÔà½üÿÿÿÿ
+Y
+java:S1120/"DMake this line start after 4 spaces to indent the code consistently.(’ó¼
+_
+java:S11203"DMake this line start after 4 spaces to indent the code consistently.(–Ø»“şÿÿÿÿ
+_
+java:S11207"DMake this line start after 4 spaces to indent the code consistently.(¿«Ôšÿÿÿÿÿ
+Z
+java:S1120;"DMake this line start after 4 spaces to indent the code consistently.(®¾¥Ó
+_
+java:S1120?"DMake this line start after 4 spaces to indent the code consistently.(®ÍƒŠşÿÿÿÿ
+Z
+java:S1120C"DMake this line start after 4 spaces to indent the code consistently.(¦Šœ¼
+Z
+java:S1120G"DMake this line start after 4 spaces to indent the code consistently.(‘ƒ‰Ï
+Z
+java:S1120K"DMake this line start after 4 spaces to indent the code consistently.(ÈúÆ
+_
+java:S1120O"DMake this line start after 4 spaces to indent the code consistently.(ø±òÎıÿÿÿÿ
+_
+java:S1120S"DMake this line start after 4 spaces to indent the code consistently.(ÅŸ¾¹ûÿÿÿÿ
+Z
+java:S1120W"DMake this line start after 4 spaces to indent the code consistently.(­äÄŒ
+Z
+java:S1120["DMake this line start after 4 spaces to indent the code consistently.(š¬×
+Y
+java:S1120_"DMake this line start after 4 spaces to indent the code consistently.(„ØãH
+0
+java:S2384%"Store a copy of "binData".(­äÄŒ
+6
+java:S2384S"Return a copy of "binData".(ÅŸ¾¹ûÿÿÿÿ
+0
+java:S2384W"Store a copy of "binData".(­äÄŒ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ìòÿÿÿÿÿ
+W
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(‹´Œ¢
+V
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(şŒÒ^
+W
+java:S1106."AMove this left curly brace to the beginning of next line of code.(ı‰ñÍ
+\
+java:S11062"AMove this left curly brace to the beginning of next line of code.(¾®àÿÿÿÿÿÿ
+V
+java:S11066"AMove this left curly brace to the beginning of next line of code.(¥¡ÀI
+W
+java:S1106:"AMove this left curly brace to the beginning of next line of code.(ğ¦œó
+\
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(á£·åşÿÿÿÿ
+W
+java:S1106B"AMove this left curly brace to the beginning of next line of code.(øï
+\
+java:S1106F"AMove this left curly brace to the beginning of next line of code.(×Œ½ıÿÿÿÿ
+\
+java:S1106J"AMove this left curly brace to the beginning of next line of code.(»‰‰Õÿÿÿÿÿ
+W
+java:S1106N"AMove this left curly brace to the beginning of next line of code.(Î’Ÿ
+\
+java:S1106R"AMove this left curly brace to the beginning of next line of code.(ĞĞšÖşÿÿÿÿ
+\
+java:S1106V"AMove this left curly brace to the beginning of next line of code.(é¦Ñ–úÿÿÿÿ
+W
+java:S1106Z"AMove this left curly brace to the beginning of next line of code.(Òç¤«
+W
+java:S1106^"AMove this left curly brace to the beginning of next line of code.(–‘´
+`	java:S103 "KSplit this 135 characters long line (which is greater than 120 authorized).(‹´Œ¢

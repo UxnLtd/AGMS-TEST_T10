@@ -1,0 +1,49 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(× ÍŽüÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¢Ù†Ãýÿÿÿÿ
+_
+java:S1120!"DMake this line start after 4 spaces to indent the code consistently.(ÕÒ¬½ÿÿÿÿÿ
+[
+java:S1120)"EMake this line start after 10 spaces to indent the code consistently.(úÑ¡î
+[
+java:S1120*"EMake this line start after 12 spaces to indent the code consistently.(¤¨äÎ
+`
+java:S1120/"EMake this line start after 10 spaces to indent the code consistently.(Þ…ÞÇþÿÿÿÿ
+[
+java:S11200"EMake this line start after 12 spaces to indent the code consistently.(¤¨äÎ
+_
+java:S11208"DMake this line start after 4 spaces to indent the code consistently.(þ»Ïùÿÿÿÿ
+Z
+java:S11209"DMake this line start after 6 spaces to indent the code consistently.(§ÑÆý
+_
+java:S1120>"DMake this line start after 2 spaces to indent the code consistently.(£Ýæüúÿÿÿÿ
+Y
+java:S1120?"DMake this line start after 4 spaces to indent the code consistently.(ÜáÑ
+>
+java:S1604'"(Make this anonymous inner class a lambda(’ëã
+C
+java:S1604-"(Make this anonymous inner class a lambda(Ð•é½ýÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÓÚ¡õ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Á¨áþùÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(à“æ…øÿÿÿÿ
+W
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(’ëã
+W
+java:S1106)"AMove this left curly brace to the beginning of next line of code.(úÑ¡î
+\
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(Ð•é½ýÿÿÿÿ
+\
+java:S1106/"AMove this left curly brace to the beginning of next line of code.(Þ…ÞÇþÿÿÿÿ
+\
+java:S11067"AMove this left curly brace to the beginning of next line of code.(æ¤ý¹øÿÿÿÿ
+\
+java:S11068"AMove this left curly brace to the beginning of next line of code.(þ»Ïùÿÿÿÿ
+\
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(£Ýæüúÿÿÿÿ
+P
+java:S1258":Add a constructor to the class, or provide default values.(ÓÚ¡õ

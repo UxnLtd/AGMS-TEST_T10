@@ -1,0 +1,63 @@
+
+Y
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ùšü?
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¥¹ï
+Z
+java:S1120""DMake this line start after 4 spaces to indent the code consistently.(Ö®Â›
+_
+java:S1120."DMake this line start after 4 spaces to indent the code consistently.(Ì‡Û×ıÿÿÿÿ
+_
+java:S1120H"DMake this line start after 6 spaces to indent the code consistently.(ëÚ·ğüÿÿÿÿ
+_
+java:S1120P"DMake this line start after 4 spaces to indent the code consistently.(ßÙåàşÿÿÿÿ
+Z
+java:S1120S"DMake this line start after 6 spaces to indent the code consistently.(¯âº›
+Z
+java:S1120Z"DMake this line start after 4 spaces to indent the code consistently.(À£ğ
+_
+java:S1120b"DMake this line start after 6 spaces to indent the code consistently.(òåí¨ûÿÿÿÿ
+L
+java:S2325O"1Make "removeSoundAndVibration" a "static" method.(í¡£üüÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ğÁšèşÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(çî¤º
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ªĞªÄ
+V
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(ßÈh
+\
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(ßÙåàşÿÿÿÿ
+\
+java:S1106O"AMove this left curly brace to the beginning of next line of code.(í¡£üüÿÿÿÿ
+\
+java:S1106P"AMove this left curly brace to the beginning of next line of code.(ßÙåàşÿÿÿÿ
+W
+java:S1106R"AMove this left curly brace to the beginning of next line of code.(å¥‡
+W
+java:S1106Y"AMove this left curly brace to the beginning of next line of code.(İÕÁ¾
+W
+java:S1106a"AMove this left curly brace to the beginning of next line of code.(×„¾®
+`
+java:S2259d"JA "NullPointerException" could be thrown; "alarmManager" is nullable here.(³ôË›
+P
+java:S2148"5Add underscores to this numeric value for readability(‡Ğµ úÿÿÿÿ
+c
+java:S18540"HRemove this useless assignment to local variable "servicePendingIntent".(Ù¨ ûÿÿÿÿ
+T
+java:S14810"9Remove this unused "servicePendingIntent" local variable.(Ù¨ ûÿÿÿÿ
+P
+java:S1874A"5Remove this use of "PRIORITY_HIGH"; it is deprecated.(•ùù”ùÿÿÿÿ
+P	java:S139H"6Move this trailing comment on the previous empty line.(ëÚ·ğüÿÿÿÿ
+G
+java:S1108R"1Move this "else" keyword to a new dedicated line.(å¥‡
+C	java:S108P")Either remove or fill this block of code.(ßÙåàşÿÿÿÿ
+C
+java:S1874S"-Remove this use of "sound"; it is deprecated.(¯âº›
+E
+java:S1874T"/Remove this use of "vibrate"; it is deprecated.(‘½Ş×
+K
+java:S1874U"0Remove this use of "defaults"; it is deprecated.(şÄ½ƒùÿÿÿÿ
+E
+java:S1874V"0Remove this use of "defaults"; it is deprecated.(í“ú

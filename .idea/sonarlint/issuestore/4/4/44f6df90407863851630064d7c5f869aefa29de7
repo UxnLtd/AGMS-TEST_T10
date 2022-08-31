@@ -1,0 +1,26 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(óè¥ÿÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(êà±í
+_
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(šÃåøÿÿÿÿ
+Z
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(êà±í
+`
+java:S1120"EMake this line start after 10 spaces to indent the code consistently.(¹Ï¬Çüÿÿÿÿ
+T
+java:S1213"?Move this static variable to comply with Java Code Conventions.(óæ¾D
+x	java:S118"^Rename this abstract class name to match the regular expression '^Abstract[A-Z][a-zA-Z0-9]*$'.(ŒÚ‹Òüÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ŒÚ‹Òüÿÿÿÿ
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(´Î°N
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(êà±í
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(šÃåøÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(êà±í
+`	java:S103"KSplit this 157 characters long line (which is greater than 120 authorized).(çœìÙ
+_	java:S103"KSplit this 243 characters long line (which is greater than 120 authorized).(•¥î

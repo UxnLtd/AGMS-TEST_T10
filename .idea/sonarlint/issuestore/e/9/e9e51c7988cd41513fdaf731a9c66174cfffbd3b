@@ -1,0 +1,47 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ºŒ‰Õşÿÿÿÿ
+_
+java:S1120$"DMake this line start after 4 spaces to indent the code consistently.(î±¨Ôøÿÿÿÿ
+[
+java:S1120-"EMake this line start after 10 spaces to indent the code consistently.(›õîÅ
+[
+java:S1120."EMake this line start after 12 spaces to indent the code consistently.(šŞø¡
+Y
+java:S1120;"DMake this line start after 4 spaces to indent the code consistently.(ÌŞõm
+_
+java:S1120<"DMake this line start after 6 spaces to indent the code consistently.(ƒŸ÷íøÿÿÿÿ
+_
+java:S1120D"DMake this line start after 4 spaces to indent the code consistently.(øˆĞİşÿÿÿÿ
+Z
+java:S1120H"DMake this line start after 6 spaces to indent the code consistently.(È¬ Ñ
+_
+java:S1120R"DMake this line start after 4 spaces to indent the code consistently.(¯½Üùÿÿÿÿ
+_
+java:S1120W"DMake this line start after 4 spaces to indent the code consistently.(¯½Üùÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Áˆ‚”
+\
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(Û½Ê€şÿÿÿÿ
+\
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(­‡«ïøÿÿÿÿ
+W
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(›õîÅ
+W
+java:S1106:"AMove this left curly brace to the beginning of next line of code.(áÃ¹×
+V
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(ÌŞõm
+\
+java:S1106C"AMove this left curly brace to the beginning of next line of code.(ÈÍéËúÿÿÿÿ
+\
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(òöøÁúÿÿÿÿ
+W
+java:S1106Q"AMove this left curly brace to the beginning of next line of code.(®¢Êœ
+V
+java:S1106V"AMove this left curly brace to the beginning of next line of code.(€Ô
+K
+java:S2039"0Explicitly declare the visibility for "binding".(ºŒ‰Õşÿÿÿÿ
+K
+java:S2039"5Explicitly declare the visibility for "recyclerView".(”ìŞç
+F
+java:S2039 "1Explicitly declare the visibility for "mAdapter".(Ö×¡z

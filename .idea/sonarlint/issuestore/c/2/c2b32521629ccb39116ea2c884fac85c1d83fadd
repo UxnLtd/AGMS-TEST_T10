@@ -1,0 +1,206 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(¬ø¤‹ûÿÿÿÿ
+_
+java:S11201"DMake this line start after 4 spaces to indent the code consistently.(åúı´ıÿÿÿÿ
+Z
+java:S11207"DMake this line start after 4 spaces to indent the code consistently.(Çó¶é
+_
+java:S1120:"DMake this line start after 4 spaces to indent the code consistently.(¥óÜÂùÿÿÿÿ
+_
+java:S1120="DMake this line start after 4 spaces to indent the code consistently.(ÚßÌÅÿÿÿÿÿ
+_
+java:S1120A"DMake this line start after 4 spaces to indent the code consistently.(”ıÿÿÿÿ
+Z
+java:S1120V"DMake this line start after 6 spaces to indent the code consistently.(‹óÚ°
+Z
+java:S1120Y"DMake this line start after 6 spaces to indent the code consistently.(ƒâÏÎ
+_
+java:S1120c"DMake this line start after 4 spaces to indent the code consistently.(¬«öĞúÿÿÿÿ
+_
+java:S1120i"DMake this line start after 6 spaces to indent the code consistently.(³²²Ôşÿÿÿÿ
+_
+java:S1120o"DMake this line start after 6 spaces to indent the code consistently.(ÿş†™ÿÿÿÿÿ
+_
+java:S1120s"DMake this line start after 8 spaces to indent the code consistently.(’³Şşùÿÿÿÿ
+Z
+java:S1120u"DMake this line start after 8 spaces to indent the code consistently.(Ü¤Œà
+Z
+java:S1120w"DMake this line start after 8 spaces to indent the code consistently.(ô¹£È
+\
+java:S1120ƒ"EMake this line start after 10 spaces to indent the code consistently.(Í½Ï„
+a
+java:S1120„"EMake this line start after 12 spaces to indent the code consistently.(­²ˆöúÿÿÿÿ
+a
+java:S1120…"EMake this line start after 14 spaces to indent the code consistently.(Ö§”Óşÿÿÿÿ
+`
+java:S1120“"DMake this line start after 6 spaces to indent the code consistently.(” é¾øÿÿÿÿ
+`
+java:S1120š"DMake this line start after 4 spaces to indent the code consistently.(ÅØÉ‰øÿÿÿÿ
+`
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(áğØ‚ıÿÿÿÿ
+`
+java:S1120£"DMake this line start after 6 spaces to indent the code consistently.(ÉŠÖùÿÿÿÿ
+[
+java:S1120¬"DMake this line start after 8 spaces to indent the code consistently.(Ô‘©Ë
+\
+java:S1120­"EMake this line start after 10 spaces to indent the code consistently.(É¬è‹
+[
+java:S1120¿"DMake this line start after 8 spaces to indent the code consistently.(É¬è‹
+[
+java:S1120Ì"DMake this line start after 4 spaces to indent the code consistently.(şç ü
+`
+java:S1120Î"DMake this line start after 6 spaces to indent the code consistently.(‘ÃÅ¥şÿÿÿÿ
+`
+java:S1120Ó"DMake this line start after 4 spaces to indent the code consistently.(óÜÈ‘úÿÿÿÿ
+`
+java:S1120ö"DMake this line start after 4 spaces to indent the code consistently.(‰Á¬–üÿÿÿÿ
+`
+java:S1120û"DMake this line start after 6 spaces to indent the code consistently.(ë–«õşÿÿÿÿ
+`
+java:S1120ü"DMake this line start after 8 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ
+\
+java:S1120ı"EMake this line start after 10 spaces to indent the code consistently.(ÆÔ¬ª
+N
+java:S1213ù"8Move this variable to comply with Java Code Conventions.(…ß´\
+j	java:S109E"UAssign this magic number 2.0f to a well-named constant, and use the constant instead.(¨¦á¨
+h	java:S109I"SAssign this magic number 2f to a well-named constant, and use the constant instead.( à‡›
+n	java:S109O"TAssign this magic number 10f to a well-named constant, and use the constant instead.(œ”°øÿÿÿÿ
+j	java:S109İ"TAssign this magic number 10f to a well-named constant, and use the constant instead.(ß“åâ
+o	java:S109è"TAssign this magic number 10f to a well-named constant, and use the constant instead.(®¶õ–úÿÿÿÿ
+h	java:S109ë"RAssign this magic number 7 to a well-named constant, and use the constant instead.(Šíùª
+t
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬«öĞúÿÿÿÿ
+t
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(Èà²µÿÿÿÿÿ
+A
+java:S1166"%Either log or rethrow this exception.(¬Àáªøÿÿÿÿ
+<
+java:S1166ş"%Either log or rethrow this exception.(”ı¾
+=
+java:S2325õ"&Make "getFormatted" a "static" method.(Ö¾ìÎ
+C
+java:S2164¯"'Use a "double" or "BigDecimal" instead.(Ê‡ÍËıÿÿÿÿ
+C
+java:S2164Á"'Use a "double" or "BigDecimal" instead.(Ê‡ÍËıÿÿÿÿ
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(·Ä€]
+\
+java:S11060"AMove this left curly brace to the beginning of next line of code.(Ï÷òüÿÿÿÿ
+W
+java:S11066"AMove this left curly brace to the beginning of next line of code.(¨…ö
+\
+java:S11069"AMove this left curly brace to the beginning of next line of code.(ÔÊ¡¬ÿÿÿÿÿ
+\
+java:S1106<"AMove this left curly brace to the beginning of next line of code.(ùí’„ùÿÿÿÿ
+\
+java:S1106@"AMove this left curly brace to the beginning of next line of code.(¡Ğ¢³ùÿÿÿÿ
+\
+java:S1106U"AMove this left curly brace to the beginning of next line of code.(Ïö¢“ÿÿÿÿÿ
+\
+java:S1106X"AMove this left curly brace to the beginning of next line of code.(å“¦şÿÿÿÿ
+\
+java:S1106b"AMove this left curly brace to the beginning of next line of code.(ÂÊ¡Æûÿÿÿÿ
+\
+java:S1106h"AMove this left curly brace to the beginning of next line of code.(Ş¬Ûµúÿÿÿÿ
+\
+java:S1106n"AMove this left curly brace to the beginning of next line of code.(ùÊó×üÿÿÿÿ
+\
+java:S1106r"AMove this left curly brace to the beginning of next line of code.(òÛì¥øÿÿÿÿ
+\
+java:S1106t"AMove this left curly brace to the beginning of next line of code.(¸ÜÌğûÿÿÿÿ
+W
+java:S1106v"AMove this left curly brace to the beginning of next line of code.(å¥‡
+]
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¾ŸÍıÿÿÿÿ
+X
+java:S1106ƒ"AMove this left curly brace to the beginning of next line of code.(Í½Ï„
+]
+java:S1106„"AMove this left curly brace to the beginning of next line of code.(­²ˆöúÿÿÿÿ
+]
+java:S1106’"AMove this left curly brace to the beginning of next line of code.(«²Î¾şÿÿÿÿ
+X
+java:S1106™"AMove this left curly brace to the beginning of next line of code.(Ìàè¡
+]
+java:S1106œ"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+]
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¬Àáªøÿÿÿÿ
+W
+java:S1106¢"AMove this left curly brace to the beginning of next line of code.(İ’ÒY
+]
+java:S1106«"AMove this left curly brace to the beginning of next line of code.(÷­Ñ°øÿÿÿÿ
+X
+java:S1106¬"AMove this left curly brace to the beginning of next line of code.(Ô‘©Ë
+X
+java:S1106¾"AMove this left curly brace to the beginning of next line of code.(†Ø…Ÿ
+X
+java:S1106Ë"AMove this left curly brace to the beginning of next line of code.(ş¥Ó¢
+X
+java:S1106Í"AMove this left curly brace to the beginning of next line of code.(ô‰â—
+X
+java:S1106Ò"AMove this left curly brace to the beginning of next line of code.(›»Ìª
+X
+java:S1106õ"AMove this left curly brace to the beginning of next line of code.(Ö¾ìÎ
+W
+java:S1106ù"AMove this left curly brace to the beginning of next line of code.(…ß´\
+]
+java:S1106û"AMove this left curly brace to the beginning of next line of code.(ë–«õşÿÿÿÿ
+]
+java:S1106ü"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+X
+java:S1106ş"AMove this left curly brace to the beginning of next line of code.(”ı¾
+e	java:S103P"KSplit this 122 characters long line (which is greater than 120 authorized).(œ³Øüÿÿÿÿ
+k	java:S116#"VRename this field "chart_xaxis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Á¹»
+u	java:S116&"`Rename this field "selected_record_xaxis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÑÕÅ
+l	java:S116ù"WRename this field "xaxis_format" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ß´\
+d
+java:S3052*"IRemove this initialization to "false", the compiler will do that for you.(ïïíıøÿÿÿÿ
+@
+java:S2039'"+Explicitly declare the visibility for "df".( ­¿F
+M
+java:S2039("7Explicitly declare the visibility for "weekDateformat".(¦²¯£
+S
+java:S2039)"8Explicitly declare the visibility for "monthDateformat".(ï¿‹†ÿÿÿÿÿ
+D
+java:S2039,".Explicitly declare the visibility for "mList".(ıŸ•À
+G
+java:S2039."1Explicitly declare the visibility for "mContext".(Ï‡€ã
+z
+java:S1450&"dRemove the "selected_record_xaxis" field and declare it as a local variable in the relevant methods.( ÑÕÅ
+8	java:S818E"#Upper-case this literal "f" suffix.(¨¦á¨
+V	java:S125H"<This block of commented-out lines of code should be removed.(¦ŒÇùùÿÿÿÿ
+8	java:S818I"#Upper-case this literal "f" suffix.( à‡›
+=	java:S818O"#Upper-case this literal "f" suffix.(œ”°øÿÿÿÿ
+b
+java:S1941e"GMove the declaration of "dataSetsList" closer to the code that uses it.(Èà²µÿÿÿÿÿ
+Z
+java:S1941f"?Move the declaration of "list" closer to the code that uses it.(½®Šüüÿÿÿÿ
+^
+java:S1941g"CMove the declaration of "tmpIndex" closer to the code that uses it.(°¤°¡ûÿÿÿÿ
+b
+java:S1774p"GConvert this usage of the ternary operator to an "if"/"else" structure.(ë¶ü•úÿÿÿÿ
+L
+java:S1108t"1Move this "else" keyword to a new dedicated line.(¸ÜÌğûÿÿÿÿ
+G
+java:S1108v"1Move this "else" keyword to a new dedicated line.(å¥‡
+Y
+java:S1244„"=Equality tests should not be made with floating point values.(­²ˆöúÿÿÿÿ
+>	java:S818„"#Upper-case this literal "f" suffix.(­²ˆöúÿÿÿÿ
+P
+java:S2221"4Catch a list of specific exception subtypes instead.(¬Àáªøÿÿÿÿ
+N
+java:S1108"2Move this "catch" keyword to a new dedicated line.(¬Àáªøÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+9	java:S818İ"#Upper-case this literal "f" suffix.(ß“åâ
+>	java:S818è"#Upper-case this literal "f" suffix.(®¶õ–úÿÿÿÿ
+R
+java:S1449ö"6Define the locale to be used in this String operation.(‰Á¬–üÿÿÿÿ
+K
+java:S2221ş"4Catch a list of specific exception subtypes instead.(”ı¾
+I
+java:S1108ş"2Move this "catch" keyword to a new dedicated line.(”ı¾
+?	java:S108ş")Either remove or fill this block of code.(”ı¾
+I
+java:S1068"".Remove this unused "chartXaxis" private field.(ƒĞ×áıÿÿÿÿ
+M
+java:S1068$"7Remove this unused "selectedRecordXaxis" private field.(µïšÊ

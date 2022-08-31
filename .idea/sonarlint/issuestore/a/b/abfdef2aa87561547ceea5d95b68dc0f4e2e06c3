@@ -1,0 +1,20 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(æÇÂ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(±ÎŞèıÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(±ÎŞèıÿÿÿÿ
+P
+java:S2148P"5Add underscores to this numeric value for readability(ÑÎşÅüÿÿÿÿ
+P
+java:S2148R"5Add underscores to this numeric value for readability(¤Æâ†ÿÿÿÿÿ
+P
+java:S2148S"5Add underscores to this numeric value for readability(ë§°øÿÿÿÿ
+P
+java:S2148T"5Add underscores to this numeric value for readability(ÏÌª„üÿÿÿÿ
+P
+java:S2148V"5Add underscores to this numeric value for readability(‘‡Àÿÿÿÿÿ
+P
+java:S2148W"5Add underscores to this numeric value for readability(ä›®Éúÿÿÿÿ
+8	java:S818m"#Upper-case this literal "f" suffix.(æú›Ñ

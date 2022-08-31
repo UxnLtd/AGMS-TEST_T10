@@ -1,0 +1,48 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(„¡Ü
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(•ªøşÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ŞÜÂ€
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(•ªøşÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ÆÕëÙúÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(÷ã´½
+Z
+java:S1120!"DMake this line start after 4 spaces to indent the code consistently.(íö»ñ
+_
+java:S1120%"DMake this line start after 4 spaces to indent the code consistently.(’×¼ßûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ“ÑÍ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÅòùÿÿÿÿ
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Èİøÿÿÿÿ
+X
+java:S1176"=Document this public class by adding an explicit description.(®ºùäûÿÿÿÿ
+Y
+java:S1176"CDocument this public constructor by adding an explicit description.(æ“ÑÍ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(®ºùäûÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ºÂ–
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(æ“ÑÍ
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ã‹³.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÅÅòùÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¼êÉ‡ıÿÿÿÿ
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ï““<
+\
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(š¨‘ùÿÿÿÿ
+\
+java:S1106$"AMove this left curly brace to the beginning of next line of code.(‘Èİøÿÿÿÿ
+g	java:S116"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¡Ü
+m	java:S116"XRename this field "refresh_token" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢´õ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã‹³.
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÅòùÿÿÿÿ
+h	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¨‘ùÿÿÿÿ
+h	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Èİøÿÿÿÿ

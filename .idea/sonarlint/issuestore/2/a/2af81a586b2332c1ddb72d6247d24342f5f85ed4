@@ -1,0 +1,26 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(¹öß»üÿÿÿÿ
+_
+java:S1120	"DMake this line start after 4 spaces to indent the code consistently.(¬óç´ùÿÿÿÿ
+_
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(®ÔÕÅøÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Õåø€ûÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¹öß»üÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(×Š×ü
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Õåø€ûÿÿÿÿ
+p
+java:S4174
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²‚Ø×
+b
+java:S5998
+"LRefactor this repetition that can lead to a stack overflow for large inputs.(²‚Ø×
+Z
+java:S5867
+"DReplace these character ranges with Unicode-aware character classes.(²‚Ø×
+h
+java:S5867"MEnable the "UNICODE_CHARACTER_CLASS" flag or use a Unicode-aware alternative.(¬†ó˜ýÿÿÿÿ

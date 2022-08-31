@@ -1,0 +1,135 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(§óşûÿÿÿÿ
+_
+java:S1120!"DMake this line start after 4 spaces to indent the code consistently.(î±¨Ôøÿÿÿÿ
+`
+java:S1120("EMake this line start after 10 spaces to indent the code consistently.(Ğ¸™áúÿÿÿÿ
+[
+java:S1120)"EMake this line start after 12 spaces to indent the code consistently.(¿Ãö
+[
+java:S1120,"EMake this line start after 18 spaces to indent the code consistently.(“–ış
+[
+java:S1120-"EMake this line start after 20 spaces to indent the code consistently.(¸™ÿ³
+`
+java:S11208"EMake this line start after 10 spaces to indent the code consistently.(Ğ¸™áúÿÿÿÿ
+[
+java:S11209"EMake this line start after 12 spaces to indent the code consistently.(¿Ãö
+[
+java:S1120<"EMake this line start after 18 spaces to indent the code consistently.(“–ış
+[
+java:S1120="EMake this line start after 20 spaces to indent the code consistently.(¸™ÿ³
+Z
+java:S1120J"DMake this line start after 4 spaces to indent the code consistently.(Í¬íÈ
+_
+java:S1120R"DMake this line start after 4 spaces to indent the code consistently.(îÂ’ıÿÿÿÿ
+_
+java:S1120S"DMake this line start after 6 spaces to indent the code consistently.(˜óıøÿÿÿÿ
+Y
+java:S1120T"DMake this line start after 8 spaces to indent the code consistently.(íÕ¢*
+_
+java:S1120Z"DMake this line start after 6 spaces to indent the code consistently.(İ×»©øÿÿÿÿ
+_
+java:S1120_"DMake this line start after 4 spaces to indent the code consistently.(¸åÑıüÿÿÿÿ
+`
+java:S1120d"EMake this line start after 18 spaces to indent the code consistently.(»ŠÇ¾ıÿÿÿÿ
+[
+java:S1120e"EMake this line start after 20 spaces to indent the code consistently.(íŞ¤–
+_
+java:S1120k"DMake this line start after 4 spaces to indent the code consistently.(ÂŠıáıÿÿÿÿ
+Z
+java:S1120o"DMake this line start after 4 spaces to indent the code consistently.(Ò°ÕÊ
+Z
+java:S1120z"DMake this line start after 4 spaces to indent the code consistently.(ÌÉê„
+[
+java:S1120…"DMake this line start after 4 spaces to indent the code consistently.(°í¶í
+[
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(·£Ñ‰
+`
+java:S1120™"DMake this line start after 4 spaces to indent the code consistently.(Á²‡úüÿÿÿÿ
+`
+java:S1120¢"DMake this line start after 4 spaces to indent the code consistently.(Û‘Ğ øÿÿÿÿ
+`
+java:S1120¬"DMake this line start after 4 spaces to indent the code consistently.(Åë¦ûÿÿÿÿ
+N
+java:S1213O"8Move this variable to comply with Java Code Conventions.(÷ñÈ©
+n	java:S109/"TAssign this magic number 200 to a well-named constant, and use the constant instead.(µ’åáøÿÿÿÿ
+n	java:S109?"TAssign this magic number 200 to a well-named constant, and use the constant instead.(µ’åáøÿÿÿÿ
+o	java:S109S"UAssign this magic number 1000 to a well-named constant, and use the constant instead.(˜óıøÿÿÿÿ
+>
+java:S1604*"(Make this anonymous inner class a lambda(Õ¾ŒÎ
+C
+java:S1604&"(Make this anonymous inner class a lambda(ËÒçôùÿÿÿÿ
+>
+java:S1604:"(Make this anonymous inner class a lambda(Õ¾ŒÎ
+>
+java:S16046"(Make this anonymous inner class a lambda(š«¶É
+>
+java:S1604b"(Make this anonymous inner class a lambda(úˆ¨—
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(·¡ïõøÿÿÿÿ
+\
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(Û½Ê€şÿÿÿÿ
+\
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(ËÒçôùÿÿÿÿ
+\
+java:S1106("AMove this left curly brace to the beginning of next line of code.(Ğ¸™áúÿÿÿÿ
+W
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(Õ¾ŒÎ
+W
+java:S1106,"AMove this left curly brace to the beginning of next line of code.(“–ış
+W
+java:S11066"AMove this left curly brace to the beginning of next line of code.(š«¶É
+\
+java:S11068"AMove this left curly brace to the beginning of next line of code.(Ğ¸™áúÿÿÿÿ
+W
+java:S1106:"AMove this left curly brace to the beginning of next line of code.(Õ¾ŒÎ
+W
+java:S1106<"AMove this left curly brace to the beginning of next line of code.(“–ış
+V
+java:S1106I"AMove this left curly brace to the beginning of next line of code.(–Í…;
+\
+java:S1106Q"AMove this left curly brace to the beginning of next line of code.(œƒƒ©ùÿÿÿÿ
+\
+java:S1106R"AMove this left curly brace to the beginning of next line of code.(îÂ’ıÿÿÿÿ
+W
+java:S1106Y"AMove this left curly brace to the beginning of next line of code.(å¥‡
+\
+java:S1106S"AMove this left curly brace to the beginning of next line of code.(˜óıøÿÿÿÿ
+W
+java:S1106^"AMove this left curly brace to the beginning of next line of code.(šÊßÀ
+W
+java:S1106b"AMove this left curly brace to the beginning of next line of code.(úˆ¨—
+\
+java:S1106d"AMove this left curly brace to the beginning of next line of code.(»ŠÇ¾ıÿÿÿÿ
+V
+java:S1106j"AMove this left curly brace to the beginning of next line of code.(äÌÀy
+\
+java:S1106n"AMove this left curly brace to the beginning of next line of code.(Òû…õûÿÿÿÿ
+W
+java:S1106y"AMove this left curly brace to the beginning of next line of code.(åŒÙ‡
+X
+java:S1106„"AMove this left curly brace to the beginning of next line of code.(¬¨ÍÆ
+X
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Õ¨¦ë
+W
+java:S1106˜"AMove this left curly brace to the beginning of next line of code.(Ğ²>
+X
+java:S1106¡"AMove this left curly brace to the beginning of next line of code.(âµ—ş
+X
+java:S1106«"AMove this left curly brace to the beginning of next line of code.(–ä¶¯
+U
+java:S1258":Add a constructor to the class, or provide default values.(·¡ïõøÿÿÿÿ
+h	java:S116O"SRename this field "Timeback" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ñÈ©
+U
+java:S2039":Explicitly declare the visibility for "loginActiveButton".(§óşûÿÿÿÿ
+W
+java:S2039"<Explicitly declare the visibility for "loginInactiveButton".(¾‚«ùşÿÿÿÿ
+V
+java:S2039";Explicitly declare the visibility for "signinActiveButton".(ë’€öüÿÿÿÿ
+X
+java:S2039"=Explicitly declare the visibility for "signinInactiveButton".(Ã¶…œÿÿÿÿÿ
+J
+java:S2039"/Explicitly declare the visibility for "mState".(»‰ìñıÿÿÿÿ
+G
+java:S1108Y"1Move this "else" keyword to a new dedicated line.(å¥‡

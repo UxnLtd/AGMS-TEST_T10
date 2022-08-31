@@ -1,0 +1,129 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ûûÕÇ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¶ìÂö
+Z
+java:S1120""DMake this line start after 4 spaces to indent the code consistently.(“•Ñì
+Z
+java:S1120%"DMake this line start after 6 spaces to indent the code consistently.(‹ž¡š
+Z
+java:S1120'"DMake this line start after 6 spaces to indent the code consistently.(×ï¤î
+Y
+java:S1120)"DMake this line start after 6 spaces to indent the code consistently.(Éªðg
+_
+java:S11200"DMake this line start after 4 spaces to indent the code consistently.(ÕÉÈ¹üÿÿÿÿ
+_
+java:S11202"DMake this line start after 6 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ
+_
+java:S11203"DMake this line start after 8 spaces to indent the code consistently.(Õ˜ðúÿÿÿÿ
+_
+java:S11208"DMake this line start after 8 spaces to indent the code consistently.(€ÉÔ…ýÿÿÿÿ
+`
+java:S1120="EMake this line start after 14 spaces to indent the code consistently.(Ð¸™áúÿÿÿÿ
+[
+java:S1120>"EMake this line start after 16 spaces to indent the code consistently.(ž¿Ãö
+[
+java:S1120A"EMake this line start after 22 spaces to indent the code consistently.(“–ýþ
+[
+java:S1120B"EMake this line start after 24 spaces to indent the code consistently.(¸™ÿ³
+_
+java:S1120L"DMake this line start after 6 spaces to indent the code consistently.(«Ÿä›øÿÿÿÿ
+`
+java:S1120N"EMake this line start after 14 spaces to indent the code consistently.(Ð¸™áúÿÿÿÿ
+[
+java:S1120O"EMake this line start after 16 spaces to indent the code consistently.(ž¿Ãö
+[
+java:S1120R"EMake this line start after 22 spaces to indent the code consistently.(“–ýþ
+[
+java:S1120S"EMake this line start after 24 spaces to indent the code consistently.(¸™ÿ³
+Z
+java:S1120]"DMake this line start after 6 spaces to indent the code consistently.(Ÿ¡Îµ
+`
+java:S1120_"EMake this line start after 14 spaces to indent the code consistently.(Ð¸™áúÿÿÿÿ
+[
+java:S1120`"EMake this line start after 16 spaces to indent the code consistently.(ž¿Ãö
+[
+java:S1120c"EMake this line start after 22 spaces to indent the code consistently.(“–ýþ
+[
+java:S1120d"EMake this line start after 24 spaces to indent the code consistently.(¸™ÿ³
+n	java:S109D"TAssign this magic number 200 to a well-named constant, and use the constant instead.(µ’åáøÿÿÿÿ
+n	java:S109U"TAssign this magic number 200 to a well-named constant, and use the constant instead.(µ’åáøÿÿÿÿ
+n	java:S109f"TAssign this magic number 200 to a well-named constant, and use the constant instead.(µ’åáøÿÿÿÿ
+:
+java:S11667"%Either log or rethrow this exception.(ïõÙE
+>
+java:S1604?"(Make this anonymous inner class a lambda(Õ¾ŒÎ
+C
+java:S1604;"(Make this anonymous inner class a lambda(«Ÿä›øÿÿÿÿ
+>
+java:S1604P"(Make this anonymous inner class a lambda(Õ¾ŒÎ
+C
+java:S1604L"(Make this anonymous inner class a lambda(«Ÿä›øÿÿÿÿ
+>
+java:S1604a"(Make this anonymous inner class a lambda(Õ¾ŒÎ
+>
+java:S1604]"(Make this anonymous inner class a lambda(Ÿ¡Îµ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÅýÔÒ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Áëñ¥
+W
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(ï ±ª
+\
+java:S1106$"AMove this left curly brace to the beginning of next line of code.(áí¶ÿÿÿÿÿÿ
+W
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(¿ÈòÑ
+W
+java:S1106("AMove this left curly brace to the beginning of next line of code.(å¥ž‡
+W
+java:S1106/"AMove this left curly brace to the beginning of next line of code.(¡Œþø
+\
+java:S11061"AMove this left curly brace to the beginning of next line of code.(áí¶ÿÿÿÿÿÿ
+\
+java:S11062"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+V
+java:S11067"AMove this left curly brace to the beginning of next line of code.(ïõÙE
+\
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(«Ÿä›øÿÿÿÿ
+\
+java:S1106="AMove this left curly brace to the beginning of next line of code.(Ð¸™áúÿÿÿÿ
+W
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(Õ¾ŒÎ
+W
+java:S1106A"AMove this left curly brace to the beginning of next line of code.(“–ýþ
+W
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(¿ÈòÑ
+W
+java:S1106\"AMove this left curly brace to the beginning of next line of code.(å¥ž‡
+\
+java:S1106L"AMove this left curly brace to the beginning of next line of code.(«Ÿä›øÿÿÿÿ
+\
+java:S1106N"AMove this left curly brace to the beginning of next line of code.(Ð¸™áúÿÿÿÿ
+W
+java:S1106P"AMove this left curly brace to the beginning of next line of code.(Õ¾ŒÎ
+W
+java:S1106R"AMove this left curly brace to the beginning of next line of code.(“–ýþ
+W
+java:S1106]"AMove this left curly brace to the beginning of next line of code.(Ÿ¡Îµ
+\
+java:S1106_"AMove this left curly brace to the beginning of next line of code.(Ð¸™áúÿÿÿÿ
+W
+java:S1106a"AMove this left curly brace to the beginning of next line of code.(Õ¾ŒÎ
+W
+java:S1106c"AMove this left curly brace to the beginning of next line of code.(“–ýþ
+`	java:S103!"KSplit this 132 characters long line (which is greater than 120 authorized).(ï ±ª
+P
+java:S1258":Add a constructor to the class, or provide default values.(ÅýÔÒ
+P
+java:S1854#":Remove this useless assignment to local variable "layout".(Ê²¶³
+G
+java:S1108&"1Move this "else" keyword to a new dedicated line.(¿ÈòÑ
+G
+java:S1108("1Move this "else" keyword to a new dedicated line.(å¥ž‡
+G
+java:S1108K"1Move this "else" keyword to a new dedicated line.(¿ÈòÑ
+G
+java:S11087"2Move this "catch" keyword to a new dedicated line.(ïõÙE
+G
+java:S1108\"1Move this "else" keyword to a new dedicated line.(å¥ž‡

@@ -1,0 +1,55 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Ã§¡ı
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Ğè½×ıÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ÄÖêŒ
+Z
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(’šš®
+`
+java:S1120"EMake this line start after 14 spaces to indent the code consistently.(ãí±¨úÿÿÿÿ
+`
+java:S1120 "EMake this line start after 16 spaces to indent the code consistently.(ßÖùäÿÿÿÿÿ
+`
+java:S1120!"EMake this line start after 18 spaces to indent the code consistently.(ıï™¿øÿÿÿÿ
+Z
+java:S1120*"DMake this line start after 4 spaces to indent the code consistently.(ˆÏ³Ÿ
+Z
+java:S1120."DMake this line start after 4 spaces to indent the code consistently.(¿ª•¸
+Z
+java:S11203"DMake this line start after 4 spaces to indent the code consistently.(»¶¤İ
+Z
+java:S1120:"DMake this line start after 4 spaces to indent the code consistently.(ı„Á
+_
+java:S1120<"DMake this line start after 6 spaces to indent the code consistently.(Üá÷Ëÿÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(âï¸ÿÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(…©ò
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(«ÀËÏ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÄÖêŒ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÙÉ’Ôùÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ãí±¨úÿÿÿÿ
+\
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(ßÖùäÿÿÿÿÿ
+W
+java:S1106)"AMove this left curly brace to the beginning of next line of code.(âÊ
+\
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(˜ş”İûÿÿÿÿ
+\
+java:S11062"AMove this left curly brace to the beginning of next line of code.(ÀÁ½üşÿÿÿÿ
+W
+java:S11068"AMove this left curly brace to the beginning of next line of code.(Ìİã÷
+\
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(ßÖùäÿÿÿÿÿ
+^
+java:S3052"HRemove this initialization to "null", the compiler will do that for you.(ê’»Å
+O
+java:S2974"4Make this class "final" or add a public constructor.(âï¸ÿÿÿÿÿ
+m
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ã§¡ı

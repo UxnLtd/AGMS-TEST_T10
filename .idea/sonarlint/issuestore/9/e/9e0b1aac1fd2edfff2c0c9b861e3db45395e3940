@@ -1,0 +1,193 @@
+
+_
+java:S1120)"DMake this line start after 2 spaces to indent the code consistently.(¼˜Ú¹ùÿÿÿÿ
+_
+java:S1120."DMake this line start after 4 spaces to indent the code consistently.(î±¨Ôøÿÿÿÿ
+[
+java:S11205"EMake this line start after 10 spaces to indent the code consistently.(¡é††
+`
+java:S11206"EMake this line start after 12 spaces to indent the code consistently.(‘éúãúÿÿÿÿ
+[
+java:S11209"EMake this line start after 18 spaces to indent the code consistently.(“–ış
+`
+java:S1120:"EMake this line start after 20 spaces to indent the code consistently.(¯ôç±ÿÿÿÿÿ
+[
+java:S1120B"EMake this line start after 10 spaces to indent the code consistently.(¡é††
+`
+java:S1120C"EMake this line start after 12 spaces to indent the code consistently.(‘éúãúÿÿÿÿ
+[
+java:S1120F"EMake this line start after 18 spaces to indent the code consistently.(“–ış
+`
+java:S1120G"EMake this line start after 20 spaces to indent the code consistently.(¯ôç±ÿÿÿÿÿ
+Z
+java:S1120N"DMake this line start after 6 spaces to indent the code consistently.(Èş™ß
+_
+java:S1120T"DMake this line start after 4 spaces to indent the code consistently.(Š³‚èùÿÿÿÿ
+_
+java:S1120X"DMake this line start after 4 spaces to indent the code consistently.(çÕâèøÿÿÿÿ
+_
+java:S1120^"DMake this line start after 4 spaces to indent the code consistently.(ß¬©úÿÿÿÿ
+Z
+java:S1120`"DMake this line start after 6 spaces to indent the code consistently.(¾Çß
+_
+java:S1120a"DMake this line start after 8 spaces to indent the code consistently.(ºõé†ÿÿÿÿÿ
+Z
+java:S1120z"DMake this line start after 4 spaces to indent the code consistently.(Öƒà
+_
+java:S1120}"DMake this line start after 6 spaces to indent the code consistently.(¿±Ïßüÿÿÿÿ
+Y
+java:S1120~"DMake this line start after 8 spaces to indent the code consistently.(™ô
+[
+java:S1120ƒ"DMake this line start after 8 spaces to indent the code consistently.(ß¿«¾
+[
+java:S1120Š"DMake this line start after 4 spaces to indent the code consistently.(Œ„¤
+`
+java:S1120’"DMake this line start after 4 spaces to indent the code consistently.(éŒõ¦üÿÿÿÿ
+[
+java:S1120•"DMake this line start after 6 spaces to indent the code consistently.(ÿ¨ÂÓ
+a
+java:S1120˜"EMake this line start after 14 spaces to indent the code consistently.(Ğ¸™áúÿÿÿÿ
+a
+java:S1120š"EMake this line start after 16 spaces to indent the code consistently.(Æ³§éşÿÿÿÿ
+[
+java:S1120¡"DMake this line start after 6 spaces to indent the code consistently.(ëË²ÿ
+U
+java:S1213*"?Move this static variable to comply with Java Code Conventions.(ˆ…„
+U
+java:S1213k"?Move this static variable to comply with Java Code Conventions.(Ö—ÈÚ
+S
+java:S1213m"8Move this variable to comply with Java Code Conventions.(ûàÕñüÿÿÿÿ
+N
+java:S1213n"8Move this variable to comply with Java Code Conventions.(İ°Ï
+S
+java:S1213o"8Move this variable to comply with Java Code Conventions.(¶şˆŒùÿÿÿÿ
+N
+java:S1213p"8Move this variable to comply with Java Code Conventions.(ô”Ûë
+N
+java:S1213q"8Move this variable to comply with Java Code Conventions.(¬ÈÚá
+N
+java:S1213r"8Move this variable to comply with Java Code Conventions.(ĞĞ™ã
+Z
+java:S1213t"?Move this static variable to comply with Java Code Conventions.(Ğµ”¨üÿÿÿÿ
+n	java:S109<"TAssign this magic number 200 to a well-named constant, and use the constant instead.(µ’åáøÿÿÿÿ
+n	java:S109I"TAssign this magic number 200 to a well-named constant, and use the constant instead.(µ’åáøÿÿÿÿ
+E
+java:S1066`"/Merge this if statement with the enclosing one.(¾Çß
+>
+java:S16047"(Make this anonymous inner class a lambda(Ô¼ë¦
+=
+java:S16043"(Make this anonymous inner class a lambda(â­©l
+>
+java:S1604D"(Make this anonymous inner class a lambda(Ô¼ë¦
+>
+java:S1604@"(Make this anonymous inner class a lambda(Ë‚¢ä
+>
+java:S1604–"(Make this anonymous inner class a lambda(ğ¼’H
+w
+java:S1488Š"`Immediately return this expression instead of assigning it to the temporary variable "location".(Œ„¤
+W
+java:S1106("AMove this left curly brace to the beginning of next line of code.(µ‘¸˜
+\
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(Û½Ê€şÿÿÿÿ
+V
+java:S11063"AMove this left curly brace to the beginning of next line of code.(â­©l
+W
+java:S11065"AMove this left curly brace to the beginning of next line of code.(¡é††
+W
+java:S11067"AMove this left curly brace to the beginning of next line of code.(Ô¼ë¦
+W
+java:S11069"AMove this left curly brace to the beginning of next line of code.(“–ış
+W
+java:S1106@"AMove this left curly brace to the beginning of next line of code.(Ë‚¢ä
+W
+java:S1106B"AMove this left curly brace to the beginning of next line of code.(¡é††
+W
+java:S1106D"AMove this left curly brace to the beginning of next line of code.(Ô¼ë¦
+W
+java:S1106F"AMove this left curly brace to the beginning of next line of code.(“–ış
+W
+java:S1106M"AMove this left curly brace to the beginning of next line of code.(ìÕíÓ
+\
+java:S1106S"AMove this left curly brace to the beginning of next line of code.(‡é±˜şÿÿÿÿ
+\
+java:S1106W"AMove this left curly brace to the beginning of next line of code.(²µáÄûÿÿÿÿ
+V
+java:S1106]"AMove this left curly brace to the beginning of next line of code.(¹Î¾
+\
+java:S1106_"AMove this left curly brace to the beginning of next line of code.(ùŠìåúÿÿÿÿ
+W
+java:S1106`"AMove this left curly brace to the beginning of next line of code.(¾Çß
+\
+java:S1106y"AMove this left curly brace to the beginning of next line of code.(Ó»×¶şÿÿÿÿ
+\
+java:S1106{"AMove this left curly brace to the beginning of next line of code.(¾£º‰ûÿÿÿÿ
+\
+java:S1106}"AMove this left curly brace to the beginning of next line of code.(¿±Ïßüÿÿÿÿ
+X
+java:S1106"AMove this left curly brace to the beginning of next line of code.(å¥‡
+V
+java:S1106~"AMove this left curly brace to the beginning of next line of code.(™ô
+X
+java:S1106ˆ"AMove this left curly brace to the beginning of next line of code.(¹ÿÃ©
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ßÆk
+X
+java:S1106“"AMove this left curly brace to the beginning of next line of code.(÷³Ö
+X
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(å¥‡
+W
+java:S1106–"AMove this left curly brace to the beginning of next line of code.(ğ¼’H
+]
+java:S1106˜"AMove this left curly brace to the beginning of next line of code.(Ğ¸™áúÿÿÿÿ
+]
+java:S2259a"BA "NullPointerException" could be thrown; "data" is nullable here.(ºõé†ÿÿÿÿÿ
+e	java:S103y"KSplit this 121 characters long line (which is greater than 120 authorized).(Ó»×¶şÿÿÿÿ
+P
+java:S1258(":Add a constructor to the class, or provide default values.(µ‘¸˜
+c
+java:S3052+"HRemove this initialization to "null", the compiler will do that for you.(Â†é™ùÿÿÿÿ
+d
+java:S3052m"IRemove this initialization to "false", the compiler will do that for you.(ûàÕñüÿÿÿÿ
+^
+java:S3052n"HRemove this initialization to "null", the compiler will do that for you.(İ°Ï
+d
+java:S3052o"IRemove this initialization to "false", the compiler will do that for you.(¶şˆŒùÿÿÿÿ
+[
+java:S3052p"ERemove this initialization to "0", the compiler will do that for you.(ô”Ûë
+^
+java:S3052r"HRemove this initialization to "null", the compiler will do that for you.(ĞĞ™ã
+N
+java:S2039p"8Explicitly declare the visibility for "permissionEvent".(ô”Ûë
+q
+java:S1450)"VRemove the "binding" field and declare it as a local variable in the relevant methods.(¼˜Ú¹ùÿÿÿÿ
+w
+java:S1450+"\Remove the "mDeviceString" field and declare it as a local variable in the relevant methods.(Â†é™ùÿÿÿÿ
+m
+java:S1450r"WRemove the "mHandler" field and declare it as a local variable in the relevant methods.(ĞĞ™ã
+J
+java:S1874/"/Remove this use of "Handler"; it is deprecated.(ŠË»‡ÿÿÿÿÿ
+Y
+java:S1874U">Remove this use of "startActivityForResult"; it is deprecated.(ÈÈ§‡ûÿÿÿÿ
+_
+java:S1874]"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾
+e
+java:S1874y"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ
+H
+java:S1108"1Move this "else" keyword to a new dedicated line.(å¥‡
+=	java:S108~")Either remove or fill this block of code.(™ô
+n
+java:S3252Š"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(Œ„¤
+H
+java:S1108 "1Move this "else" keyword to a new dedicated line.(å¥‡
+ƒ
+java:S3252–"mUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_INDEFINITE".(ğ¼’H
+
+java:S3252¡"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(ëË²ÿ
+L
+java:S1068+"1Remove this unused "mDeviceString" private field.(Â†é™ùÿÿÿÿ
+M
+java:S1068m"2Remove this unused "waitForConnect" private field.(ûàÕñüÿÿÿÿ
+K
+java:S1068n"5Remove this unused "mBluetoothService" private field.(İ°Ï
+B
+java:S1068r",Remove this unused "mHandler" private field.(ĞĞ™ã

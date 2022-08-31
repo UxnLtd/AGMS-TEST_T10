@@ -1,0 +1,29 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(‘¡Ù
+Y
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(×‘Æl
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Ü‘Ìç
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ìœ Åøÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(úŒÆùÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(à“æ…øÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‘¡Ù
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(äÓÃ—úÿÿÿÿ
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(şÒ´X
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(úñ—¦ÿÿÿÿÿ
+K
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(µ›â}
+K
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(µ›â}
+H
+java:S1874"2Remove this use of "setMessage"; it is deprecated.(õİêú
+S
+java:S1874"8Remove this use of "setIndeterminate"; it is deprecated.(å´¨Šıÿÿÿÿ

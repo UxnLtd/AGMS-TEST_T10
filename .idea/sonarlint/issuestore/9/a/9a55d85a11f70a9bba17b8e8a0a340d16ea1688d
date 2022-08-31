@@ -1,0 +1,59 @@
+
+Y
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Õ˜‡+
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(î±¨Ôøÿÿÿÿ
+[
+java:S1120#"EMake this line start after 10 spaces to indent the code consistently.(“–ýþ
+[
+java:S1120$"EMake this line start after 12 spaces to indent the code consistently.(ÚÉ³ª
+Z
+java:S1120+"DMake this line start after 4 spaces to indent the code consistently.(³êËá
+Z
+java:S1120."DMake this line start after 6 spaces to indent the code consistently.(ØùŽ—
+Z
+java:S11200"DMake this line start after 6 spaces to indent the code consistently.(ñÔëÚ
+Z
+java:S11207"DMake this line start after 4 spaces to indent the code consistently.( ­öä
+_
+java:S1120?"DMake this line start after 4 spaces to indent the code consistently.(˜óýŽøÿÿÿÿ
+Y
+java:S1120@"DMake this line start after 6 spaces to indent the code consistently.(íÕ¢*
+N
+java:S1213;"8Move this variable to comply with Java Code Conventions.(÷ñÈ©
+j	java:S109"UAssign this magic number 720f to a well-named constant, and use the constant instead.(†ºží
+j	java:S109"UAssign this magic number 1000 to a well-named constant, and use the constant instead.(†ºží
+j	java:S109&"UAssign this magic number 1000 to a well-named constant, and use the constant instead.(³Ú¿«
+o	java:S109?"UAssign this magic number 1000 to a well-named constant, and use the constant instead.(˜óýŽøÿÿÿÿ
+>
+java:S1604!"(Make this anonymous inner class a lambda(†£°î
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(³¿‰…
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Û½Ê€þÿÿÿÿ
+W
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(†£°î
+W
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(“–ýþ
+\
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(ò­â‡ûÿÿÿÿ
+\
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(ðØåúøÿÿÿÿ
+W
+java:S1106/"AMove this left curly brace to the beginning of next line of code.(å¥ž‡
+W
+java:S11066"AMove this left curly brace to the beginning of next line of code.(óÞØŒ
+\
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(œƒƒ©ùÿÿÿÿ
+\
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(˜óýŽøÿÿÿÿ
+P
+java:S1258":Add a constructor to the class, or provide default values.(³¿‰…
+h	java:S116;"SRename this field "Timeback" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ñÈ©
+k
+java:S1450"VRemove the "binding" field and declare it as a local variable in the relevant methods.(Õ˜‡+
+8	java:S818"#Upper-case this literal "f" suffix.(†ºží
+E
+java:S1874 "/Remove this use of "Handler"; it is deprecated.(’Ú©Š
+G
+java:S1108/"1Move this "else" keyword to a new dedicated line.(å¥ž‡
